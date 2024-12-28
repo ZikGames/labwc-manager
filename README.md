@@ -1,4 +1,4 @@
-_WARNING: I no longer use labwc personally, so I've stopped updating this project. It works but there are many features that have not really been tested (and won't be). Use at your own risk, and feel free to open PRs._
+_WARNING: I forked labwc-manager for personal use and needs, I do not guarantee sending PullRequests to the [original repository](https://github.com/JaydenPahukula/labwc-manager)._
 
 # Labwc Manager
 
